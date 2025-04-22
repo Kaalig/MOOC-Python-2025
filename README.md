@@ -1,2 +1,2 @@
 # MOOC-Python-2025
-Exercices from Python 2025 MOOC of Helsinki University.
+Exercices that I completed from the [Python 2025 MOOC of Helsinki University.]([url](https://programming-25.mooc.fi/))
